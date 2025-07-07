@@ -1,7 +1,0 @@
-"# Cypress-demo"  
-"# Cypress-demo"  
-"# Cypress-demo"  
-"# Cypress-demo"  
-"# Cypress-demo" 
-"# Cypress-demo" 
-"# Cypress-newbie" 
